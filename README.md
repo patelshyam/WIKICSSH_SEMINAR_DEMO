@@ -6,10 +6,11 @@
 ---
 
 ### Table of Contents
-- [Sorting Visualization](#sorting-visualization)
+- [WIKICSSH_SEMINAR_DEMO](#wikicssh-seminar-demo)
     + [Table of Contents](#table-of-contents)
-  * [Description](#description)
+      - [Technologies](#technologies)
   * [How To Use](#how-to-use)
+      - [Installation](#installation)
   * [License](#license)
   * [Author Info](#author-info)
   * [Inspiration](#inspiration)
@@ -22,6 +23,7 @@
 - Django + Python
 - D3.js
 
+[Back To The Top](#wikicssh-seminar-demo)
 ---
 ## How To Use
 
@@ -31,6 +33,8 @@ Just pull the repository and run the command for installing requirment.txt
 ```python
 pip install -r requirements.txt
 ```
+
+[Back To The Top](#wikicssh-seminar-demo)
 ---
 
 ## License
@@ -57,7 +61,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#sorting-visualization)
+[Back To The Top](#wikicssh-seminar-demo)
 
 ---
 
@@ -66,9 +70,9 @@ SOFTWARE.
 - Hacker Rank Profile- [@LosPapes](https://www.hackerrank.com/LosPepes)
 - LinkedIn profile- [@Shyam Patel](https://www.linkedin.com/in/patelshyam54/)
 
-[Back To The Top](#sorting-visualization)
+[Back To The Top](#wikicssh-seminar-demo)
 
 ## Inspiration
 - WikiCSSH- [@WikiCSSH](https://github.com/uiuc-ischool-scanr/WikiCSSH)
 
-[Back To The Top](#sorting-visualization)
+[Back To The Top](#wikicssh-seminar-demo)
